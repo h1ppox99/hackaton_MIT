@@ -92,4 +92,8 @@ Then we compute the best alternative routes using the same model. The user can s
 ### Frontend
 Then we developped a tool to visualize the results. The user can select the origin and destination cities, adjust the importance of time, cost, and CO2 emissions, and see the best route on a map. 
 
+### Final Demo
+
+The one-minute video for our final demo is available at https://www.youtube.com/watch?v=98FYwTaLDQA
+
 
